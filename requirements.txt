@@ -1,0 +1,7 @@
+Flask
+tensorflow
+pillow
+numpy
+sklearn
+pickle
+streamlit
